@@ -5,6 +5,11 @@ const cryptoNewsHeaders = {
     'X-RapidAPI-Host': 'crypto-news16.p.rapidapi.com'
 }
 
+// const cryptoNewsHeaders = {
+//     'X-RapidAPI-Key': process.env.REACT_APP_NEWS_API_KEY,
+//     'X-RapidAPI-Host': process.env.REACT_APP_NEWS_API_HOST
+// };
+
 const baseUrl = 'https://crypto-news16.p.rapidapi.com';
 
 
